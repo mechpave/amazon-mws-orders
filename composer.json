@@ -1,0 +1,9 @@
+{
+    "name": "mechpave/amazon-mws-orders",
+    "type": "library",
+    "description": "Amazon Marketplace Web Service Orders PHP Client Library",
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "include-path": ["src/"]
+}
